@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="anu1">ONE</string>
+    <string name="anu2">TWO</string>
+    <string name="anu3">THREE</string>
+    <string name="anu4">FOUR</string>
+    <string name="anu5">FIVE</string>
+</resources>
